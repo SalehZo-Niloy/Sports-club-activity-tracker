@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Sports-club-activity-tracker/static/css/main.0e0cd71e.css",
+    "main.js": "/Sports-club-activity-tracker/static/js/main.d3d7b71f.js",
+    "static/js/787.68e3533f.chunk.js": "/Sports-club-activity-tracker/static/js/787.68e3533f.chunk.js",
+    "static/media/dp.jpg": "/Sports-club-activity-tracker/static/media/dp.b8c5ec0ff7018af9bcf9.jpg",
+    "static/media/logo.png": "/Sports-club-activity-tracker/static/media/logo.2bcf171b21e65a5f5246.png",
+    "index.html": "/Sports-club-activity-tracker/index.html",
+    "main.0e0cd71e.css.map": "/Sports-club-activity-tracker/static/css/main.0e0cd71e.css.map",
+    "main.d3d7b71f.js.map": "/Sports-club-activity-tracker/static/js/main.d3d7b71f.js.map",
+    "787.68e3533f.chunk.js.map": "/Sports-club-activity-tracker/static/js/787.68e3533f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e0cd71e.css",
+    "static/js/main.d3d7b71f.js"
+  ]
+}
