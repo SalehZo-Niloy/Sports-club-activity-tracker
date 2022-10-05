@@ -1,0 +1,43 @@
+.faq {
+    background-color: rgb(191, 196, 216);
+    padding: 2rem;
+}
+
+.faq h3 {
+    text-align: center;
+}
+
+.faq h4,
+p {
+    margin: .5rem 0;
+}
+
+.faq th {
+    text-align: center;
+}
+
+.faq td {
+    padding-right: 3rem;
+    padding-left: 3rem;
+}
+
+@media only screen and (max-width:767px) {
+    .faq {
+        padding: .5rem 0rem;
+    }
+
+    .faq td {
+        padding-right: 0rem;
+        padding-left: 0rem;
+    }
+
+    .faq p {
+        margin: 0;
+        font-size: 13px;
+        padding-right: 1rem;
+    }
+
+    .faq table {
+        font-size: 13px;
+    }
+}
